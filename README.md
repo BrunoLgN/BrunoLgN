@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bruno de Oliveira
 
-<!--
-**BrunoLgN/BrunoLgN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Java`**
 
-Here are some ideas to get you started:
+Sou Bruno de Oliveira, estudante de Engenharia de Software pela Descomplica Uniamérica em Foz do Iguaçu/PR. Compartilho pelo entusiasmo em backend, algoritmos e estruturas de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias
+**`Java`**  **`TypeScript`** **`Angular`** **`Spring`**
+**`Java`** **`Linux`**
+
+
+
+
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=BrunoLgN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLgN&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
